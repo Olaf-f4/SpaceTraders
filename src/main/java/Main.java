@@ -29,7 +29,7 @@ public class Main {
         APIKey k = new APIKey();
         k.Key();
 
-        Testing
+        String test;
 
 
 
